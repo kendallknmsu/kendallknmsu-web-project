@@ -1,0 +1,67 @@
+/* Page background */
+body {
+    background-color: #e6f2ff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Headers */
+h1 {
+    color: darkgreen;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: #2c3e50;
+    font-size: 28px;
+}
+
+h3 {
+    color: #34495e;
+    font-size: 22px;
+}
+
+/* Paragraphs */
+p {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Navigation */
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: blue;
+    margin-right: 15px;
+}
+
+/* Hover effect */
+nav a:hover {
+    color: red;
+}
+
+/* Lists */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Images */
+img {
+    width: 400px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+/* Sections spacing */
+section {
+    margin-bottom: 30px;
+}
